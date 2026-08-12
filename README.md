@@ -1,2 +1,2 @@
 # schranwpib-
-<img src="https://shields.io" alt="Python Badge">
+<img src="shields.io" alt="Python Badge">
